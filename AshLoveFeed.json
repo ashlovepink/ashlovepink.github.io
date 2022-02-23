@@ -1,0 +1,52 @@
+{
+  "title": "AshLoveFeed",
+  "longTitle": "ASHLOVEPINK",
+  "description": "Ash的模拟器游戏库",
+  "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/default-thumb.png",
+  "background": "https://raw.githubusercontent.com/ashlovepink/game/main/ASHLOVEPINK.jpg",
+  "categories": [
+    {
+      "title": "GBA",
+      "longTitle": "Nintendo Game Boy Advance",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gba-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba-thumb.png",
+      "description": "GAME BOY ADVANCE，简称GBA。是任天堂公司于2001年3月21日发售的第二代便携式游戏机，最大特点是采用了彩色的TFT液晶屏幕。售价9800日元，可向下兼容上一代的的Game Boy的游戏。2004年6月，神游推出小神游GBA，2005年小神游销量逾20万台，公司营业额破亿。 \nGBA有两个改版机型，分别是2003年上市的GBA SP，和2005年上市的GBM。 截止到2010年，GBA总全球累计售出8151万部。任天堂的下一代掌机为任天堂DS。",
+      "items": [
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/ShiningSoul2/ShiningSoul2v1.4.gba"
+          },
+          "type": "gba",
+          "title": "光明之魂",
+          "longTitle": "光明之魂 2",
+          "description": "《光明之魂2-中文版》是由SEGA（世嘉）游戏公司制作日文原版，PGCG汉化小组汉化完成的，游戏ROM的编号为1113。这是一款在GBA上少有的ACT-RPG大作。游戏讲述的是光明与黑暗的战斗，游戏主角孤身一人勇闯黑暗势力总部，消灭黑暗势力，重建光明世界。",
+          "added": 1645620322013
+        },
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/GoldenSun1/GoldenSun1.gba"
+          },
+          "type": "gba",
+          "title": "黄金太阳",
+          "added": 1645554481380,
+          "longTitle": "黄金太阳 开启的封印",
+          "description": "黄金太阳1开启的封印是一款来GBA平台的经典RPG游戏，游戏围绕着传说中的炼金术展开，炼金术是这个世界的禁术，由于可以平白无故的产生黄金，所以学会之人比较导致全世界范围内的经济动乱，并且可以做到任何自己想做的事，所以一直以来都禁止使用。而这部作品中就是讲述主角要重新将炼金术的封印开启，原因便是国家由于遭到恶魔族的侵略导致环境问题，生活非常疾苦，如果没有的到外力可能整个国家就因此而被榨干，国王为了革命于是招来最强的战士，前去开启炼金术的封印，故事也就此展开。这是黄金的太阳系列的第一款作品，这款作品之所以能成为经典正是由于其饱满的剧情与趣味性超强的玩法，游戏虽然采用的是传统RPG游戏模式，不过其在内容上精致程度是一般游戏所无法拟比的，不论在战斗、解谜、剧情设计上都是那样无懈可击，这也是多少玩家百玩不厌的原因之一。",
+          "thumbnail": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/GoldenSun1/GoldenSun1-thumbnail.png",
+          "background": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/GoldenSun1/GoldenSun1-background.png",
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/HarvestMoon/HarvestMoon.gba"
+          },
+          "type": "gba",
+          "title": "牧场物语",
+          "longTitle": "牧场物语 矿石镇的伙伴们",
+          "description": "《牧场物语 矿石镇的伙伴们》是东星软件开发的Game Boy Advance模拟经营游戏，为《牧场物语》系列的第9作，也是PlayStation游戏《牧场物语：中秋满月》的移植版，于2003年4月18日发售。游戏的女生版《牧场物语：矿石镇的伙伴们 for Girl》于2003年12月12日发售，重制版《牧场物语：重聚矿石镇》于2019年10月17日发售。\n在游戏中，玩家将作为一名时隔多年来到矿石镇的男孩，在从镇长那里得到牧场主老爷爷的牧场后，开始将荒废的牧场重新打理并让其焕发新机。",
+          "added": 1645629084210
+        }
+      ]
+    }
+  ],
+  "backgroundPixelated": false
+}
