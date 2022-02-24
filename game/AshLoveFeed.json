@@ -195,8 +195,12 @@
             "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/NES/Mario1/Mario1.nes"
           },
           "type": "nes",
-          "title": "超级马里奥兄弟1",
-          "thumbnail": "https://ashlovepink.github.io/game/NES/Mario1/Mario1-thumbnail.jpg",
+          "title": "超级马里奥兄弟",
+          "longTitle": "超级马里奥兄弟",
+          "description": "被称为TV游戏奠基之作的《超级马里奥兄弟》(《SUPER MARIO BROS.》)于1985年9月13日发售，这是一款任天堂针对FC主机全力度身订造的游戏。这个游戏被赞誉为电子游戏的原始范本，确立了角色、游戏目的、流程分布、操作性、隐藏要素、BOSS、杂兵等以后通用至今的制作概念。《超级马里奥兄弟》成为游戏史首部真正意义上的超大作游戏，游戏日本本土销量总计681万份(包括后来DISK 版的63万份)，海外累计更是达到了3342万份的天文数字。 经过ATARI危机的浩劫后，有许多专业人士曾经断言美国的TV游戏市场没有二十年不能恢复元气，1985年《超级马里奥兄弟》登场后迅 速在北美掀起了狂热风暴，NOA仅仅用了三年就把市场恢复到了ATARI全盛时期的状况，当年度仅FC软件市场的销售额就轻松突破了4亿美元大关，《超级马里奥兄弟》对于这个世界最大电子娱乐市场的重建做出了不可磨灭的贡献。",
+          "thumbnail": "https://ashlovepink.github.io/game/NES/Mario1/Mario1-thumbnail.png",
+          "background": "https://ashlovepink.github.io/game/NES/Mario1/Mario1-background.png",
+          "backgroundPixelated": true,
           "added": 1645712619509
         },
         {
@@ -204,8 +208,12 @@
             "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/NES/Mario2/Mario2.nes"
           },
           "type": "nes",
-          "title": "超级马里奥兄弟2",
-          "thumbnail": "https://ashlovepink.github.io/game/NES/Mario2/Mario2-thumbnail.jpg",
+          "title": "超级马里奥兄弟 2",
+          "longTitle": "超级马里奥兄弟 2",
+          "description": "《超级马里奥兄弟2》是1986年任天堂发布的一款FC磁碟系统的动作游戏。马里奥和路易基拯救了桃子公主，开始了一个新的冒险，以平定蘑菇王国。在此款游戏中，马里奥比较稳定易于操作，而路易基可以跳得更高，但行走中稍微滑。两个具有不同特点的角色需要通过玩家利用特点来通过关卡，玩家可以享受与一代有所不同的冒险。游戏中增加了一些音效，诸如紧急减速、弹簧跳跃等等，并且增加了一个所有人都非常有印象的道具——毒蘑菇，凡是没看过说明书没听过介绍的人都会以为这是原版蘑菇换了一种画法的样子，结果惨死当场还落个摸不着头脑。",
+          "thumbnail": "https://ashlovepink.github.io/game/NES/Mario2/Mario2-thumbnail.png",
+          "background": "https://ashlovepink.github.io/game/NES/Mario2/Mario2-background.png",
+          "backgroundPixelated": true,
           "added": 1645712628541
         },
         {
@@ -213,8 +221,12 @@
             "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/NES/Mario3/Mario3.nes"
           },
           "type": "nes",
-          "title": "超级马里奥兄弟3",
-          "thumbnail": "https://ashlovepink.github.io/game/NES/Mario3/Mario3-thumbnail.jpg",
+          "title": "超级马里奥兄弟 3",
+          "longTitle": "超级马里奥兄弟 3",
+          "description": "本作是作为超级马里奥兄弟的续编制作的，继承前作登场人物、物品、规则等要素，同时进行大幅改变，融入了非常多变更要素与追加要素。《超级马里奥兄弟3》于1988年末商战前的10月23日发售，玩家的口碑相传使得销售热潮持续不退，连续32周稳居销售榜前10位，最终《超级马里奥兄弟3》以日本销量384万份的成绩险胜《勇者斗恶龙3》",
+          "thumbnail": "https://ashlovepink.github.io/game/NES/Mario3/Mario3-thumbnail.png",
+          "background": "https://ashlovepink.github.io/game/NES/Mario3/Mario3-background.png",
+          "backgroundPixelated": true,
           "added": 1645712635253
         },
         {
@@ -224,7 +236,10 @@
           "type": "nes",
           "title": "赤色要塞",
           "longTitle": "赤色要塞",
-          "thumbnail": "https://ashlovepink.github.io/game/NES/Jackal/Jackal-thumbnail.jpg",
+          "description": "《赤色要塞（Jackal）》是由日本KONAMI公司研发的一款动作射击游戏，于1988年9月发售。赤色要塞与魂斗罗、绿色兵团、沙罗曼蛇并誉为“四强”，风靡整个八十年代。当初名为“Jackal”（豺狼部队）的游戏被翻译成“赤色要塞”，是因为同年发售的日本任天堂磁碟机版的名字是“FINAL",
+          "thumbnail": "https://ashlovepink.github.io/game/NES/Jackal/Jackal-thumbnail.png",
+          "background": "https://ashlovepink.github.io/game/NES/Jackal/Jackal-background.png",
+          "backgroundPixelated": true,
           "added": 1645712651877
         }
       ]
