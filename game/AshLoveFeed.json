@@ -14,13 +14,15 @@
       "items": [
         {
           "props": {
-            "rom": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/ShiningSoul2/ShiningSoul2v1.4.gba"
+            "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/GBA/ShiningSoul2/ShiningSoul2v1.4.gba"
           },
           "type": "gba",
-          "title": "光明之魂",
-          "longTitle": "光明之魂 2",
+          "title": "光明之魂 2",
+          "longTitle": "光明之魂 Ⅱ",
           "description": "《光明之魂2-中文版》是由SEGA（世嘉）游戏公司制作日文原版，PGCG汉化小组汉化完成的，游戏ROM的编号为1113。这是一款在GBA上少有的ACT-RPG大作。游戏讲述的是光明与黑暗的战斗，游戏主角孤身一人勇闯黑暗势力总部，消灭黑暗势力，重建光明世界。",
-          "added": 1645620322013
+          "added": 1645620322013,
+          "thumbnail": "https://ashlovepink.github.io/game/GBA/GoldenSun1/GoldenSun1-thumbnail.png",
+          "background": "https://ashlovepink.github.io/game/GBA/GoldenSun1/GoldenSun1-thumbnail.png"
         },
         {
           "props": {
@@ -37,13 +39,26 @@
         },
         {
           "props": {
-            "rom": "https://raw.githubusercontent.com/ashlovepink/game/main/GBA/HarvestMoon/HarvestMoon.gba"
+            "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/GBA/HarvestMoon/HarvestMoon.gba"
           },
           "type": "gba",
           "title": "牧场物语",
           "longTitle": "牧场物语 矿石镇的伙伴们",
           "description": "《牧场物语 矿石镇的伙伴们》是东星软件开发的Game Boy Advance模拟经营游戏，为《牧场物语》系列的第9作，也是PlayStation游戏《牧场物语：中秋满月》的移植版，于2003年4月18日发售。游戏的女生版《牧场物语：矿石镇的伙伴们 for Girl》于2003年12月12日发售，重制版《牧场物语：重聚矿石镇》于2019年10月17日发售。\n在游戏中，玩家将作为一名时隔多年来到矿石镇的男孩，在从镇长那里得到牧场主老爷爷的牧场后，开始将荒废的牧场重新打理并让其焕发新机。",
-          "added": 1645629084210
+          "added": 1645629084210,
+          "thumbnail": "https://ashlovepink.github.io/game/GBA/HarvestMoon/HarvestMoon-thumbnail.png"
+        },
+        {
+          "props": {
+            "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/GBA/GoldenSun2/GoldenSun2.gba"
+          },
+          "type": "gba",
+          "title": "黄金太阳 2",
+          "longTitle": "黄金太阳 失落的时代",
+          "added": 1645701254241,
+          "thumbnail": "https://ashlovepink.github.io/game/GBA/GoldenSun2/GoldenSun2-thumbnail.png",
+          "description": "《黄金太阳2失落的时代》是《黄金太阳：开启的封印》的续作。\n事情发生在金星灯塔被点燃后，地元素使加西亚、火元素使加斯敏、风元素使西芭、学者斯库雷塔，与艾利克斯被海啸带到远方的大陆。 原来加西亚在一代协助点灯台的原因，是为了拯救三年前的事件中获救却被俘虏的父母。",
+          "background": "https://ashlovepink.github.io/game/GBA/GoldenSun2/GoldenSun2-background.png"
         }
       ]
     }
