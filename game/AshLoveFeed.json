@@ -24,7 +24,7 @@
         },
         {
           "props": {
-            "rom": "https://ashlovepink.github.io/game/GBA/GoldenSun1/GoldenSun1.gba"
+            "rom": "https://raw.githubusercontent.com/ashlovepink/ashlovepink.github.io/main/game/GBA/GoldenSun1/GoldenSun1.gba"
           },
           "type": "gba",
           "title": "黄金太阳",
